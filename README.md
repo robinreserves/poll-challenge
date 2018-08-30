@@ -1,6 +1,6 @@
 # Robin Technical Challenge
 
-Your challenge is to create a REST-ful API using node.js and express that acts
+Your challenge is to create a REST-ful API using node.js that acts
 as a backend for a [Doodle Poll](https://doodle.com)-style app.
 
 ## Requirements
